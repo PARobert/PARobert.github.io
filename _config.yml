@@ -47,31 +47,26 @@ show_dir_listing: false
 permalink:     pretty
 paginate_path: /page:num
 timezone:      Europe/Paris
+paginate:         3
+paginate_path: "blog/page:num"
 
 # Setup
 title:            Pierre-Antoine ROBERT
 tagline:          'TAGLINE'     #  TO MODIFY
 description:      'DESCRIPTION' #  TO MODIFY
 url:              http://parobert.github.io/
-baseurl:          /
 
 author:
   name:           'Pierre-Antoine ROBERT'
   email:          pierreantoine.robert@gmail.com
 
-paginate:         3
-paginate_path: "blog/page:num"
-
 gems: [jekyll-paginate]
 
 # custom vars
 # google_analytics: UA-63207330-1 #  TO MODIFY
-
 emailme:          mailto:pierreantoine.robert@gmail.com
-
 github:
   repo:           https://github.com/PARobert/PARobert.github.io
-
 version:          March.1.2018
 github_username:  PARobert
 linkedin_username: pierre-antoine-robert-9727a277
