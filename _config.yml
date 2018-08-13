@@ -64,10 +64,10 @@ gems: [jekyll-paginate]
 # custom vars
 # google_analytics: UA-63207330-1 #  TO MODIFY
 emailme:          mailto:pierreantoine.robert@gmail.com
-github:
+github:https://github.com/PARobert/
 repo:           https://github.com/PARobert/blog.git
 version:          March.1.2018
-github_username:  parobert
+github_username:  PARobert
 linkedin_username: pierre-antoine-robert-9727a277
 # twitter_username: 
 # share_pdf: yes
