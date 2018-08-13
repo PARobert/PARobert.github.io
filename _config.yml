@@ -52,10 +52,13 @@ timezone:      Europe/Paris
 title:            Pierre-Antoine ROBERT
 tagline:          'TAGLINE'     #  TO MODIFY
 description:      'DESCRIPTION' #  TO MODIFY
-url:              http://www.parobert.com/
-author: 'Pierre-Antoine ROBERT'
-name:           'Pierre-Antoine ROBERT'
-email:          pierreantoine.robert@gmail.com
+url:              http://parobert.github.io/
+baseurl:          /
+
+author:
+  name:           'Pierre-Antoine ROBERT'
+  email:          pierreantoine.robert@gmail.com
+
 paginate:         3
 paginate_path: "blog/page:num"
 
@@ -63,14 +66,12 @@ gems: [jekyll-paginate]
 
 # custom vars
 # google_analytics: UA-63207330-1 #  TO MODIFY
+
 emailme:          mailto:pierreantoine.robert@gmail.com
-github: https://github.com/PARobert/PARobert.github.io
-repo:           https://github.com/PARobert/PARobert.github.io
+
+github:
+  repo:           https://github.com/PARobert/PARobert.github.io
+
 version:          March.1.2018
 github_username:  PARobert
 linkedin_username: pierre-antoine-robert-9727a277
-# twitter_username: 
-# share_pdf: yes
-# google_plus_username:
-# instagram_username:
-# facebook_username:
