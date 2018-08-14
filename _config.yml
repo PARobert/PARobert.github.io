@@ -13,7 +13,7 @@ collections:
 # Handling Reading
 safe:                false
 include:             [".htaccess"]
-exclude:             ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "_ignore/"]
+exclude:             ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "_ignore/", "publications.md", "blog/", "tmp.md"]
 keep_files:          [".git", ".svn"]
 encoding:            "utf-8"
 markdown_ext:        "markdown,mkdown,mkdn,mkd,md"
@@ -55,7 +55,7 @@ title:            Pierre-Antoine ROBERT
 firstname: Pierre-Antoine
 lastname: ROBERT
 tagline:          'TAGLINE'     #  TO MODIFY
-description:      'DESCRIPTION' #  TO MODIFY
+description:      'Economist'
 url:              http://parobert.github.io/
 
 author:
