@@ -1,6 +1,7 @@
 # Ignore docs files
 _site
 .gitignore
+tmp.md
 
 # Numerous always-ignore extensions
 *.diff
