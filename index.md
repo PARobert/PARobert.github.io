@@ -3,34 +3,37 @@ layout: aboutme
 title: About Me
 ---
 
-10-16-1990
+<img style="float: right; max-height: 220px;" src="public/image/photo.jpg">
 
-French citizen
-
+French citizen, born in 1990, October the 16th (27 years old).
 
 ### Education
 
-* École normale supérieure, École des hautes études en sciences sociales. Master degree in Social Sciences.
-* École nationale de la statistique et de l'administration économique. Master degree in Statistics and Economics.
+* ENS, EHESS. Master degree in Social Sciences.
+* ENSAE. Master degree in Statistics and Economics.
 * Sciences Po Paris. Master degree in Public Administrations.
 
 ### Professional Experience
 
-* Research Assistant (Intern). Banque de France, Monetary Policy Division. Paris (France), from June to September 2018.
+* *Macroeconomist at Banque de France.*
 
-    Worked on a international research project about the ECB monetary policy.
+    Forecastings Division, Paris (France). Junior manager (AD3). Begin in December 2018.
 
-* Quantitative Economics Analyst (Intern). General Directorate of Public Finances (DGFIP), Budget Law Directorate (DLF). Paris (France), from April to August 2017.
+* *Research Assistant at Banque de France.*
 
-    Assessed and analyzed French and European fiscal reforms on budget aspects and macroeconomic effects.
+    Monetary Policy Division, Paris (France). In intership from June to September 2018. Worked on a international research project about the ECB monetary policy.
 
-* Economic Attaché (Intern). French Embassy in the United-States of America, General Directorate of the Treasury Section (DG Trésor). Washington D.C. (United-States), from Octobre 2016 to April 2017.
+* *Quantitative Economics Analyst at Ministry of Economic and Financial Affairs.*
 
-    Monitored Fed monetary policy and budget reforms under the Trump administration. Wrote macroeconomic and social policy briefs.
+    General Directorate of Public Finances (DGFIP), Budget Law Directorate (DLF), Paris (France). In intership from April to August 2017. Assessed and analyzed French and European fiscal reforms on budget aspects and macroeconomic effects.
 
-* Quantitative Economics Analyst (Intern). National Institute for Statistics and Economics Analysis (Insee), Directorate of Economics Studies, Forecasting Section. Paris (France), from June to September 2016.
+* *Economic Attaché at French Embassy in the United-States of America.*
 
-    Built a new forecasting model of French exports optimizing the use of destination-based national accounts.
+    General Directorate of the Treasury Section (DG Trésor), Washington D.C. (United-States). In intership from Octobre 2016 to April 2017. Monitored Fed monetary policy and budget reforms under the Trump administration. Wrote macroeconomic and social policy briefs.
+
+* *Quantitative Economics Analyst at National Institute for Statistics and Economics Analysis (Insee).*
+
+    Directorate of Economics Studies, Forecasting Section, Paris (France). In intership from June to September 2016. Built a new forecasting model of French exports optimizing the use of destination-based national accounts.
 
 ### Computing
 

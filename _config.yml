@@ -54,8 +54,7 @@ paginate_path: "blog/page:num"
 title:            Pierre-Antoine ROBERT
 firstname: Pierre-Antoine
 lastname: ROBERT
-tagline:          'TAGLINE'     #  TO MODIFY
-description:      'Economist'
+tagline:          'TAGLINE'
 url:              http://parobert.github.io/
 
 author:
