@@ -35,7 +35,7 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
+      <!-- <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li> -->
       <!-- social buttons -->
       {% if site.github_username %}
       <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
@@ -70,8 +70,8 @@
     </nav>
 
     <!-- last updated -->
-    <span class="sidebar-nav-item">Last updated on: {{ site.version }}</span>
-
+    <!-- <span class="sidebar-nav-item">Version: {{ site.version }}</span> -->
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+
   </div>
 </div>
