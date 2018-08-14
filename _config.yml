@@ -52,6 +52,8 @@ paginate_path: "blog/page:num"
 
 # Setup
 title:            Pierre-Antoine ROBERT
+firstname: Pierre-Antoine
+lastname: ROBERT
 tagline:          'TAGLINE'     #  TO MODIFY
 description:      'DESCRIPTION' #  TO MODIFY
 url:              http://parobert.github.io/

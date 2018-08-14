@@ -1,7 +1,5 @@
 # Ignore docs files
-_gh_pages
 _site
-.ruby-version
 .gitignore
 
 # Numerous always-ignore extensions
@@ -23,24 +21,10 @@ Thumbs.db
 .cache
 .project
 .settings
-.tmproj
-*.esproj
-nbproject
-*.sublime-project
-*.sublime-workspace
 .idea
 public/doc
 
-# Komodo
-*.komodoproject
-.komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json
-
 # Folders to ignore
-node_modules
 _ignore/
 _drafts/
 _ignore/*
