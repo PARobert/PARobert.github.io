@@ -21,7 +21,7 @@ French citizen, born in 1990, October the 16th (27 years old).
 
 * *Research Assistant at Banque de France.*
 
-    Monetary Policy Division, Paris (France). In intership from June to September 2018. Worked on a international research project about the ECB monetary policy.
+    Monetary Policy Division, Paris (France). In intership from June to September 2018. Worked on an international research project about the ECB monetary policy.
 
 * *Quantitative Economics Analyst at Ministry of Economic and Financial Affairs.*
 
@@ -35,18 +35,17 @@ French citizen, born in 1990, October the 16th (27 years old).
 
     Directorate of Economics Studies, Forecasting Section, Paris (France). In intership from June to September 2016. Built a new forecasting model of French exports optimizing the use of destination-based national accounts.
 
+### Languages
+
+* French, C2 (Mother tongue).
+* English, C1.
+* Spanish, B1.
+
 ### Computing
 
 * Python, Django.
 * SQL.
 * HTML5, CSS3.
 * Lisp, Elisp.
-* Matlab.
+* Matlab (including Dynare)
 * R, SAS, Eviews, Stata.
-
-### Languages
-
-* French, C2 (Mother tongue).
-* English, C1.
-* Spanish, B1.
-* Russian, A1-A2.
